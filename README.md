@@ -9,7 +9,6 @@ Per i primi due è stato rivisto il codice e semplificato moltissimo, specialmen
 
 Nota bene: ho lasciato il toggle al posto dell'add sull'evento di click perché ho notato che piace moltissimo ai ragazzi, qualora non dovesse essere un concetto chiaro o non amato basterà cambiare la funzione classList.toggle() con una funzione standard di classList.add().
 
-<<<<<<< HEAD
 ## Esercizio js-campominato-grid
 > @here
 Ciao ragazzi,
@@ -35,5 +34,3 @@ Di cosa ho bisogno per generare i numeri?
 Proviamo sempre prima con dei console.log() per capire se stiamo ricevendo i dati giusti.
 Le validazioni e i controlli possiamo farli anche in un secondo momento.
 >
-=======
->>>>>>> 7786c158ad5503c8a94dc5457a5499051978ba57
