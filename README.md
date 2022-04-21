@@ -9,7 +9,11 @@ Per i primi due è stato rivisto il codice e semplificato moltissimo, specialmen
 
 Nota bene: ho lasciato il toggle al posto dell'add sull'evento di click perché ho notato che piace moltissimo ai ragazzi, qualora non dovesse essere un concetto chiaro o non amato basterà cambiare la funzione classList.toggle() con una funzione standard di classList.add().
 
-## Esercizio js-campominato-grid
+
+
+Non riesco a stilizzare decentemente i markdown qui su github come riuscirei a fare altrove, non prende neanche gli "a capo"...
+# Consegna esercizio js-campominato-grid
+
 > @here
 Ciao ragazzi,
 Esercizio di oggi: **Griglia Campo Minato**
