@@ -16,12 +16,16 @@ Esercizio di oggi: **Griglia Campo Minato**
 nome repo: js-campominato-grid
 
 **Consegna**
-L'utente indica un livello di difficoltà in base al quale viene generata una griglia di gioco quadrata, in cui ogni cella contiene un numero tra quelli compresi in un range:
-    con difficoltà 1 => da 0 a 100 caselle, divise in 10 caselle per 10 righe;
-    con difficoltà 2 => da 0 a 81 caselle, divise in 9 caselle per 9 righe;
-    con difficoltà 3 => da 0 a 49 caselle, divise in 7 caselle per 7 righe.
+L'utente clicca su un bottone che genererà una griglia di gioco quadrata, in cui ogni cella contiene un numero tra quelli compresi in un range tra 1 e 100, divise in 10 caselle per 10 righe.
 
 Quando l'utente clicca su ogni cella, la cella cliccata si colora di azzurro.
+
+**Bonus**
+Aggiungere una select accanto al bottone di generazione, che fornisca una scelta tra tre diversi livelli di difficoltà:
+    - con difficoltà 1 => da 0 a 100 caselle, divise in 10 caselle per 10 righe;
+    - con difficoltà 2 => da 0 a 81 caselle, divise in 9 caselle per 9 righe;
+    - con difficoltà 3 => da 0 a 49 caselle, divise in 7 caselle per 7 righe.
+
 
 **Consigli del giorno:** :party_wizard:
 ****Scriviamo prima cosa vogliamo fare passo passo in italiano, dividiamo il lavoro in micro problemi.
