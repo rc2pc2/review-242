@@ -40,7 +40,7 @@ Le validazioni e i controlli possiamo farli anche in un secondo momento.
 >
 
 
-# Screenshots dei vari esercizi
+# Screenshot dei vari esercizi
 
 ## Griglia dinamica
 ![Griglia dinamica](./previews/griglia-dinamica.png)
