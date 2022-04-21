@@ -1,0 +1,49 @@
+/* RESET */
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #011627;
+}
+
+main{
+    padding: 2rem;
+    margin-top: 3rem;
+}
+
+div#grid{
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+}
+
+div#grid .square{
+    float: left;
+    width: calc(100% / 8);
+    height: calc(100% / 8);
+    cursor: crosshair;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+div#grid,
+div#grid .square{
+    border: 2px white solid;
+}
+
+div#grid .square.clicked {
+    background-color: #7FFFD4;
+}
+
+.clearfix::after{
+    content: '';
+    clear: both;
+    display: table;
+}
