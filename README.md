@@ -38,3 +38,18 @@ Di cosa ho bisogno per generare i numeri?
 Proviamo sempre prima con dei console.log() per capire se stiamo ricevendo i dati giusti.
 Le validazioni e i controlli possiamo farli anche in un secondo momento.
 >
+
+
+# Screenshots dei vari esercizi
+
+## Griglia dinamica
+![Griglia dinamica](./previews/griglia-dinamica.png)
+
+## Griglia dinamica pari e dispari
+![Griglia dinamica pari e dispari](./previews/griglia-dinamica-pari-dispari.png)
+
+## Esercizio campo minato grid senza bonus
+![Griglia dinamica](./previews/campo-minato-grid-no-bonus.png)
+
+## Esercizio campo minato grid con bonus
+![Griglia dinamica](./previews/campo-minato-grid-with-bonus.png)
